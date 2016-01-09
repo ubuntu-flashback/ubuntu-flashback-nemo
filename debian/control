@@ -1,0 +1,13 @@
+Source: ubuntu-flashback-nemo
+Section: x11
+Priority: optional
+Maintainer: Mystic-Mirage <mm@m10e.net>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+Homepage: https://launchpad.net/ubuntu-flashback/
+
+Package: nautilus
+Architecture: any
+Depends: nemo
+Description: Replace Nautilus with Nemo for Ubuntu Flashback Desktop Environment
+ Replace Nautilus with Nemo for Ubuntu Flashback Desktop Environment.
